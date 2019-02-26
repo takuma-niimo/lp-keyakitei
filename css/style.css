@@ -495,8 +495,8 @@ nav a, nav a:hover {
 }
 
 #feature .visual>.slider-nav .slick-slide {
-    margin-left: 1vw;
-    margin-right: 1vw;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 #feature .visual>.slider-nav {
